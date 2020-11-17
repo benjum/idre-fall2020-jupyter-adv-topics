@@ -1,0 +1,14 @@
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - numpy
+  - ipywidgets
+  - scipy
+  - matplotlib
+  - pandas
+  - yahoo_fin
+  - requests
+  - RISE
+  - voila
+  - papermill[all]
